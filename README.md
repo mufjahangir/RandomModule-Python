@@ -1,2 +1,2 @@
-In this series , I am tring to create small projects by using python random module...
+In this series, I am creating small projects using the Python random module. Each project demonstrates different functionalities and practical applications of random number generation. These projects range from simple games to useful utilities, designed to be both educational and fun. They showcase the versatility and power of the random module in Python.
 1. Create a lottery system using python random module
